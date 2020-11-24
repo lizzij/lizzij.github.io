@@ -163,9 +163,9 @@ Cited as:
 @article{weng2017detection2,
   title   = "Object Detection for Dummies Part 2: CNN, DPM and Overfeat",
   author  = "Weng, Lilian",
-  journal = "lilianweng.github.io/lil-log",
+  journal = "lilianweng.github.io/log",
   year    = "2017",
-  url     = "http://lilianweng.github.io/lil-log/2017/12/15/object-recognition-for-dummies-part-2.html"
+  url     = "http://lilianweng.github.io/log/2017/12/15/object-recognition-for-dummies-part-2.html"
 }
 ```
 

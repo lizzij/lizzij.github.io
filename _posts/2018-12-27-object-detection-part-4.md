@@ -398,9 +398,9 @@ Cited as:
 @article{weng2018detection4,
   title   = "Object Detection Part 4: Fast Detection Models",
   author  = "Weng, Lilian",
-  journal = "lilianweng.github.io/lil-log",
+  journal = "lilianweng.github.io/log",
   year    = "2018",
-  url     = "http://lilianweng.github.io/lil-log/2018/12/27/object-detection-part-4.html"
+  url     = "http://lilianweng.github.io/log/2018/12/27/object-detection-part-4.html"
 }
 ```
 

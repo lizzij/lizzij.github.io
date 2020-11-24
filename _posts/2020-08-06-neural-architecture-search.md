@@ -543,9 +543,9 @@ Cited as:
 @article{weng2020nas,
   title   = "Neural Architecture Search",
   author  = "Weng, Lilian",
-  journal = "lilianweng.github.io/lil-log",
+  journal = "lilianweng.github.io/log",
   year    = "2020",
-  url     = "https://lilianweng.github.io/lil-log/2020/08/06/neural-architecture-search.html"
+  url     = "https://lilianweng.github.io/log/2020/08/06/neural-architecture-search.html"
 }
 ```
 

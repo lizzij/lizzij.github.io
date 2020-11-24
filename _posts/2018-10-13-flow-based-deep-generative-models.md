@@ -492,9 +492,9 @@ Cited as:
 @article{weng2018flow,
   title   = "Flow-based Deep Generative Models",
   author  = "Weng, Lilian",
-  journal = "lilianweng.github.io/lil-log",
+  journal = "lilianweng.github.io/log",
   year    = "2018",
-  url     = "http://lilianweng.github.io/lil-log/2018/10/13/flow-based-deep-generative-models.html"
+  url     = "http://lilianweng.github.io/log/2018/10/13/flow-based-deep-generative-models.html"
 }
 ```
 

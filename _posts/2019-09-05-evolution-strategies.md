@@ -584,9 +584,9 @@ Cited as:
 @article{weng2019ES,
   title   = "Evolution Strategies",
   author  = "Weng, Lilian",
-  journal = "lilianweng.github.io/lil-log",
+  journal = "lilianweng.github.io/log",
   year    = "2019",
-  url     = "https://lilianweng.github.io/lil-log/2019/09/05/evolution-strategies.html"
+  url     = "https://lilianweng.github.io/log/2019/09/05/evolution-strategies.html"
 }
 ```
 

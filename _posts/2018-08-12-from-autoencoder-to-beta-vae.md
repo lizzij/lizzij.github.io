@@ -523,9 +523,9 @@ Cited as:
 @article{weng2018VAE,
   title   = "From Autoencoder to Beta-VAE",
   author  = "Weng, Lilian",
-  journal = "lilianweng.github.io/lil-log",
+  journal = "lilianweng.github.io/log",
   year    = "2018",
-  url     = "http://lilianweng.github.io/lil-log/2018/08/12/from-autoencoder-to-beta-vae.html"
+  url     = "http://lilianweng.github.io/log/2018/08/12/from-autoencoder-to-beta-vae.html"
 }
 ```
 

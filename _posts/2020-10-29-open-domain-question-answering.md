@@ -627,9 +627,9 @@ Cited as:
 @article{weng2020odqa,
   title   = "How to Build an Open-Domain Question Answering System?",
   author  = "Weng, Lilian",
-  journal = "lilianweng.github.io/lil-log",
+  journal = "lilianweng.github.io/log",
   year    = "2020",
-  url     = "https://lilianweng.github.io/lil-log/2020/10/29/open-domain-question-answering.html"
+  url     = "https://lilianweng.github.io/log/2020/10/29/open-domain-question-answering.html"
 }
 ```
 

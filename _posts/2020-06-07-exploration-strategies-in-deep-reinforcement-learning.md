@@ -529,9 +529,9 @@ Cited as:
 @article{weng2020exploration,
   title   = "Exploration Strategies in Deep Reinforcement Learning",
   author  = "Weng, Lilian",
-  journal = "lilianweng.github.io/lil-log",
+  journal = "lilianweng.github.io/log",
   year    = "2020",
-  url     = "https://lilianweng.github.io/lil-log/2020/06/07/exploration-strategies-in-deep-reinforcement-learning.html"
+  url     = "https://lilianweng.github.io/log/2020/06/07/exploration-strategies-in-deep-reinforcement-learning.html"
 }
 ```
 

@@ -465,9 +465,9 @@ Cited as:
 @article{weng2018attention,
   title   = "Attention? Attention!",
   author  = "Weng, Lilian",
-  journal = "lilianweng.github.io/lil-log",
+  journal = "lilianweng.github.io/log",
   year    = "2018",
-  url     = "http://lilianweng.github.io/lil-log/2018/06/24/attention-attention.html"
+  url     = "http://lilianweng.github.io/log/2018/06/24/attention-attention.html"
 }
 ```
 *If you notice mistakes and errors in this post, don't hesitate to contact me at [lilian dot wengweng at gmail dot com] and I would be very happy to correct them right away!*

@@ -335,9 +335,9 @@ Cited as:
 @article{weng2017detection3,
   title   = "Object Detection for Dummies Part 3: R-CNN Family",
   author  = "Weng, Lilian",
-  journal = "lilianweng.github.io/lil-log",
+  journal = "lilianweng.github.io/log",
   year    = "2017",
-  url     = "http://lilianweng.github.io/lil-log/2017/12/31/object-recognition-for-dummies-part-3.html"
+  url     = "http://lilianweng.github.io/log/2017/12/31/object-recognition-for-dummies-part-3.html"
 }
 ```
 

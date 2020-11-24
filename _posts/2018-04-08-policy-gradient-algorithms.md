@@ -1172,9 +1172,9 @@ Cited as:
 @article{weng2018PG,
   title   = "Policy Gradient Algorithms",
   author  = "Weng, Lilian",
-  journal = "lilianweng.github.io/lil-log",
+  journal = "lilianweng.github.io/log",
   year    = "2018",
-  url     = "https://lilianweng.github.io/lil-log/2018/04/08/policy-gradient-algorithms.html"
+  url     = "https://lilianweng.github.io/log/2018/04/08/policy-gradient-algorithms.html"
 }
 ```
 

@@ -584,9 +584,9 @@ Cited as:
 @article{weng2020transformer,
   title   = "The Transformer Family",
   author  = "Weng, Lilian",
-  journal = "lilianweng.github.io/lil-log",
+  journal = "lilianweng.github.io/log",
   year    = "2020",
-  url     = "https://lilianweng.github.io/lil-log/2020/03/27/the-transformer-family.html"
+  url     = "https://lilianweng.github.io/log/2020/03/27/the-transformer-family.html"
 }
 ```
 

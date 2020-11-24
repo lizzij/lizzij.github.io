@@ -208,9 +208,9 @@ Cited as:
 @article{weng2017infotheory,
   title   = "Anatomize Deep Learning with Information Theory",
   author  = "Weng, Lilian",
-  journal = "lilianweng.github.io/lil-log",
+  journal = "lilianweng.github.io/log",
   year    = "2017",
-  url     = "http://lilianweng.github.io/lil-log/2017/09/28/anatomize-deep-learning-with-information-theory.html"
+  url     = "http://lilianweng.github.io/log/2017/09/28/anatomize-deep-learning-with-information-theory.html"
 }
 ```
 

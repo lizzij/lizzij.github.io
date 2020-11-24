@@ -217,9 +217,9 @@ Cited as:
 @article{weng2019DR,
   title   = "Domain Randomization for Sim2Real Transfer",
   author  = "Weng, Lilian",
-  journal = "lilianweng.github.io/lil-log",
+  journal = "lilianweng.github.io/log",
   year    = "2019",
-  url     = "http://lilianweng.github.io/lil-log/2019/05/04/domain-randomization.html"
+  url     = "http://lilianweng.github.io/log/2019/05/04/domain-randomization.html"
 }
 ```
 

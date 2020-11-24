@@ -751,9 +751,9 @@ Cited as:
 @article{weng2018metalearning,
   title   = "Meta-Learning: Learning to Learn Fast",
   author  = "Weng, Lilian",
-  journal = "lilianweng.github.io/lil-log",
+  journal = "lilianweng.github.io/log",
   year    = "2018",
-  url     = "http://lilianweng.github.io/lil-log/2018/11/29/meta-learning.html"
+  url     = "http://lilianweng.github.io/log/2018/11/29/meta-learning.html"
 }
 ```
 

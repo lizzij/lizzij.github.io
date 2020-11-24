@@ -258,9 +258,9 @@ Cited as:
 @article{weng2018bandit,
   title   = "The Multi-Armed Bandit Problem and Its Solutions",
   author  = "Weng, Lilian",
-  journal = "lilianweng.github.io/lil-log",
+  journal = "lilianweng.github.io/log",
   year    = "2018",
-  url     = "http://lilianweng.github.io/lil-log/2018/01/23/the-multi-armed-bandit-problem-and-its-solutions.html"
+  url     = "http://lilianweng.github.io/log/2018/01/23/the-multi-armed-bandit-problem-and-its-solutions.html"
 }
 ```
 

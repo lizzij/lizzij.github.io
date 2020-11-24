@@ -392,9 +392,9 @@ Cited as:
 @article{weng2019metaRL,
   title   = "Meta Reinforcement Learning",
   author  = "Weng, Lilian",
-  journal = "lilianweng.github.io/lil-log",
+  journal = "lilianweng.github.io/log",
   year    = "2019",
-  url     = "http://lilianweng.github.io/lil-log/2019/06/23/meta-reinforcement-learning.html"
+  url     = "http://lilianweng.github.io/log/2019/06/23/meta-reinforcement-learning.html"
 }
 ```
 

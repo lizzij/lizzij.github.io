@@ -639,9 +639,9 @@ Cited as:
 @article{weng2019LM,
   title   = "Generalized Language Models",
   author  = "Weng, Lilian",
-  journal = "lilianweng.github.io/lil-log",
+  journal = "lilianweng.github.io/log",
   year    = "2019",
-  url     = "http://lilianweng.github.io/lil-log/2019/01/31/generalized-language-models.html"
+  url     = "http://lilianweng.github.io/log/2019/01/31/generalized-language-models.html"
 }
 ```
 

@@ -35,7 +35,7 @@ This idea has been widely used in language modeling. The default task for a lang
 
 [Here](https://github.com/jason718/awesome-self-supervised-learning) is a nicely curated list of papers in self-supervised learning. Please check it out if you are interested in reading more in depth.
 
-Note that this post does not focus on either NLP / [language modeling]({{ site.baseurl }}{% post_url 2019-01-31-generalized-language-models %}) or [generative modeling](https://lilianweng.github.io/lil-log/tag/generative-model).
+Note that this post does not focus on either NLP / [language modeling]({{ site.baseurl }}{% post_url 2019-01-31-generalized-language-models %}) or [generative modeling](https://lilianweng.github.io/log/tag/generative-model).
 
 
 {: class="table-of-content"}
@@ -51,7 +51,7 @@ The *self-supervised task*, also known as *pretext task*, guides us to a supervi
 
 For example, we might rotate images at random and train a model to predict how each input image is rotated. The rotation prediction task is made-up, so the actual accuracy is unimportant, like how we treat auxiliary tasks. But we expect the model to learn high-quality latent variables for real-world tasks, such as constructing an object recognition classifier with very few labeled samples. 
 
-Broadly speaking, all the generative models can be considered as self-supervised, but with different goals: Generative models focus on creating diverse and realistic images, while self-supervised representation learning care about producing good features generally helpful for many tasks. Generative modeling is not the focus of this post, but feel free to check my [previous posts](https://lilianweng.github.io/lil-log/tag/generative-model).
+Broadly speaking, all the generative models can be considered as self-supervised, but with different goals: Generative models focus on creating diverse and realistic images, while self-supervised representation learning care about producing good features generally helpful for many tasks. Generative modeling is not the focus of this post, but feel free to check my [previous posts](https://lilianweng.github.io/log/tag/generative-model).
 
 
 ## Images-Based
@@ -780,9 +780,9 @@ Cited as:
 @article{weng2019selfsup,
   title   = "Self-Supervised Representation Learning",
   author  = "Weng, Lilian",
-  journal = "lilianweng.github.io/lil-log",
+  journal = "lilianweng.github.io/log",
   year    = "2019",
-  url     = "https://lilianweng.github.io/lil-log/2019/11/10/self-supervised-learning.html"
+  url     = "https://lilianweng.github.io/log/2019/11/10/self-supervised-learning.html"
 }
 ```
 

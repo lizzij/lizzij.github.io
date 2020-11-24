@@ -1,10 +1,10 @@
-title: Lil'Log
-name: "Lilian's Tech Blog"
-author: Lilian Weng
-twitter_username: lilianweng
-baseurl: "/lil-log"
-description: Document my learning notes.
-profile_url: "http://lilianweng.github.io"
+title: lizzij log
+name: "Eliza's Tech Blog"
+author: Eliza Huang
+twitter_username: liz_zij
+baseurl: "/log"
+description: Learning. But you gotta do it every day.
+profile_url: "http://lizzij.github.io"
 
 # Build settings
 markdown: kramdown
