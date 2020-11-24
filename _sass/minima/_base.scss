@@ -13,9 +13,9 @@ hr {
     display: block;
     height: 1px;
     border: 0;
-    border-top: 1px solid $crimson-color-very-light;
+    border-top: 1px solid $yellow-color-very-light;
     margin: 2em 0;
-    padding: 0; 
+    padding: 0;
 }
 
 /**
@@ -183,7 +183,7 @@ a {
   }
 
   &:hover {
-    color: $crimson-color-light;
+    color: $yellow-color-light;
     text-decoration: underline;
   }
 
@@ -201,13 +201,12 @@ a {
  * Blockquotes
  */
 blockquote {
-  color: #777777;
-  border-left: 4px solid #bbbbbb;
-  padding: 10px;
-  margin: 10px;
-  padding-left: 25px;
+  color: $grey-color-quote;
+  border-left: 4px solid $grey-color-quote-border;
+  padding: 10px 10px 10px 25px;
+  margin: 5px 10px 10px 10px;
   @include relative-font-size(0.9);
-  background: #f0f0f0;
+  background: $grey-color-block;
 
   > :last-child {
     margin-bottom: 0;
@@ -224,7 +223,7 @@ code {
   @include relative-font-size(0.9375);
   border: 1px solid $grey-color-light;
   border-radius: 3px;
-  background-color: #f2f2f2;
+  background-color: $grey-color-code-background;
 }
 
 code {
