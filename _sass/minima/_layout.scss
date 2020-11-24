@@ -221,10 +221,11 @@ div.qa {
       background: $grey-color-qa-background;
       padding: 5px;
       padding-left: 20px;
+      margin-bottom: 0px !important;
     }
     .answer {
       padding: 5px;
-      padding-left: 20px;
+      padding-left: 21px;
     }
  }
 
@@ -300,4 +301,13 @@ div.qa {
     }
   }
 
+}
+
+.profile-picture {
+  width: 240px;
+}
+
+.footnote {
+  color: #aaaaaa;
+  font-size: 85%;
 }
