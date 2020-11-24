@@ -124,8 +124,34 @@
     text-decoration: none;
     cursor: pointer;
 
-    > h2 > a {
+    > h2 {
+      // title
+      > a {
+        color: $text-color;
+      }
+      // blockquote
+      > blockquote {
+        background-color: white;
+        > p {
+          color: $text-color;
+        }
+      }
+    }
+
+    > span {
+      // date
       color: $text-color;
+      // tag
+      > span > a {
+        color: $text-color;
+        border-color: $text-color;
+        &:hover {
+          border: 1px solid $text-color;
+          text-decoration: none;
+          color: $text-color;
+          background: white;
+        }
+      }
     }
   }
 }
