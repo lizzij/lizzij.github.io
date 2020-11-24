@@ -2,7 +2,6 @@
 layout: default
 ---
 <div class="home other-pages">
-  <h1 class="page-heading">Posts</h1>
   <ul class="post-list">
     {% for post in site.posts %}
       <li class="post-card">
@@ -18,10 +17,15 @@ layout: default
         </span>
 
         <h2>
-          <a class="post-link" href="{{ post.url | relative_url }}">{{ post.title | escape }}</a>
-          {% if post.excerpt %}
-            {{ post.excerpt }}
-          {% endif %}
+          <a class="post-link-area" href="{{ post.url | relative_url }}">
+            <div class="post-link" >
+              {{ post.title | escape }}
+            </div>
+            <!-- <a class="post-link" href="{{ post.url | relative_url }}">{{ post.title | escape }}</a> -->
+            {% if post.excerpt %}
+              {{ post.excerpt }}
+            {% endif %}
+          </a>
         </h2>
       </li>
     {% endfor %}
