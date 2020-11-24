@@ -203,6 +203,7 @@ a {
 blockquote {
   color: $grey-color-quote;
   border-left: 4px solid $grey-color-quote-border;
+  border-radius: 3px;
   padding: 10px 10px 10px 25px;
   margin: 5px 10px 10px 10px;
   @include relative-font-size(0.9);
