@@ -1,1 +1,2 @@
-# lizzij.github.io
+# Lil'Log
+Lilian's Blog
