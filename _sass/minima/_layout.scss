@@ -125,13 +125,13 @@
     text-decoration: none;
     cursor: pointer;
 
-    > h2 {
-      // title
-      > a {
+    > h2 > a {
+      // post-link
+      > div {
         color: $text-color;
       }
       // blockquote
-      > a > blockquote {
+      > blockquote {
         background-color: white;
         border-left: 4px solid $text-color;
         > p {
@@ -180,6 +180,7 @@
 }
 
 .post-link {
+  color: $brand-color;
   display: block;
   @include relative-font-size(1.6);
   font-weight: 600;
