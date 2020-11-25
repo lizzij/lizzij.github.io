@@ -31,61 +31,61 @@ Imaging sitting for a coding interview, walking through $$O(n)$$ solution and pa
 
 #### Algorithm
 While I practice problem solving, I plan to classify and summarize thought process and common problems. The programming problems will be coming from:
-- [ ] [Leetcode](https://leetcode.com/) $$\approx$$ 1600 questions
-- [ ] [Project Euler](https://projecteuler.net/) $$\approx$$ 700 questions
-- [ ] (If I still have time and brain cells to spare) coding competition like [Code Forces](https://codeforces.com/problemset), and [ACM/ICPC](http://poj.org/problemlist)
+- [Leetcode](https://leetcode.com/) $$\approx$$ 1600 questions
+- [Project Euler](https://projecteuler.net/) $$\approx$$ 700 questions
+- (If I still have time and brain cells to spare) coding competition like [Code Forces](https://codeforces.com/problemset), and [ACM/ICPC](http://poj.org/problemlist)
 
 #### System Design
 This year there are too many new grad applying to entry level jobs, so expect system design and object oriented programming questions. I will be studying materials from:
-- [ ] [System design primer](https://github.com/donnemartin/system-design-primer) (free)
-- [ ] [Grokking the system design interview](https://www.educative.io/courses/grokking-the-system-design-interview)
-- [ ] [Grokking the object oriented design interview](https://www.educative.io/courses/grokking-the-object-oriented-design-interview)
-- [ ] (And if I still have $ to spare) [Systems expert](https://www.algoexpert.io/systems/fundamentals)
+- [System design primer](https://github.com/donnemartin/system-design-primer) (free)
+- [Grokking the system design interview](https://www.educative.io/courses/grokking-the-system-design-interview)
+- [Grokking the object oriented design interview](https://www.educative.io/courses/grokking-the-object-oriented-design-interview)
+- (And if I still have $ to spare) [Systems expert](https://www.algoexpert.io/systems/fundamentals)
 
 ### Computer Science Knowledge
 This is different from all the whatever-awesome github repo I've stared and never read. This is a personally tailored list of knowledge gaps and how to fill them.
 
 #### Programming Language
-- [ ] C/C++ (also to prep for competitive programming)
-- [ ] Java: *Core Java* by Cay S. Horstmann and Gary Cornell, JVM
+- C/C++ (also to prep for competitive programming)
+- Java: *Core Java* by Cay S. Horstmann and Gary Cornell, JVM
 
 #### Algorithm and Data Structure
-- [ ] Stack, linked list
-- [ ] Sorting algorithm and complexity analysis, hash algorithm principle, map principle (hash map, tree map)
-- [ ] Binary tree, full binary tree, complete binary tree, minimum spanning tree, Dijkstra, balanced binary tree, red-black tree implementation.
+- Stack, linked list
+- Sorting algorithm and complexity analysis, hash algorithm principle, map principle (hash map, tree map)
+- Binary tree, full binary tree, complete binary tree, minimum spanning tree, Dijkstra, balanced binary tree, red-black tree implementation.
 
 #### Computer Network
-- [ ] TCP: *TCP/IP Illustrated* (network, communication, distributed system, server). Three-way handshake, four-way handshake, how does TCP achieve reliable transmission, congestion control, flow control, use of socket
-- [ ] HTTP: *Illustrated Guide to HTTP* (web development), *Unix network programming* by W. Richard Stevens
-- [ ] Five-layer protocol architecture
-- [ ] DNS resolution process, ping process
-- [ ] HTTP, HTTPS, HTTP2
+- TCP: *TCP/IP Illustrated* (network, communication, distributed system, server). Three-way handshake, four-way handshake, how does TCP achieve reliable transmission, congestion control, flow control, use of socket
+- HTTP: *Illustrated Guide to HTTP* (web development), *Unix network programming* by W. Richard Stevens
+- Five-layer protocol architecture
+- DNS resolution process, ping process
+- HTTP, HTTPS, HTTP2
 
 #### Operating System
-- [ ] Thread process, thread synchronization, inter-process communication mode, cache calculation* (* RU etc.), deadlock problem, file system
-- [ ] Distributed programming
+- Thread process, thread synchronization, inter-process communication mode, cache calculation* (* RU etc.), deadlock problem, file system
+- Distributed programming
 
 #### Database
-- [ ] 1 NF, 2 NF, 3 NF
-- [ ] sql syntax and commands
-- [ ] The principle and function of index
-- [ ] Transactions: Atomicity, consistency, isolation, durability
-- [ ] Super key, candidate key, primary key, foreign key
+- 1 NF, 2 NF, 3 NF
+- sql syntax and commands
+- The principle and function of index
+- Transactions: Atomicity, consistency, isolation, durability
+- Super key, candidate key, primary key, foreign key
 
 #### Compiler
-- [ ] Interpreter, compiler
-- [ ] Principle of Virtual Machine
-- [ ] Compilation process: lexical analysis, grammatical analysis, semantic analysis
+- Interpreter, compiler
+- Principle of Virtual Machine
+- Compilation process: lexical analysis, grammatical analysis, semantic analysis
 
 #### Design Pattern
-- [ ] *Head First Design Patterns* by Elisabeth Freeman and Kathy Sierra
+- *Head First Design Patterns* by Elisabeth Freeman and Kathy Sierra
 
 ### Project Retros
-- [ ] What is it about
-- [ ] Technically what I learned
-- [ ] Challenges, mistakes/failures, conflicts
-- [ ] Enjoyed, leadership
-- [ ] What I'd do differently
+- What is it about
+- Technically what I learned
+- Challenges, mistakes/failures, conflicts
+- Enjoyed, leadership
+- What I'd do differently
 
 
 ## Frequency, Style & Audience
