@@ -80,6 +80,13 @@ This is different from all the whatever-awesome github repo I've stared and neve
 #### Design Pattern
 - *Head First Design Patterns* by Elisabeth Freeman and Kathy Sierra
 
+#### Machine Learning
+- Math, physics, statistics and probability
+- Data collection and processing
+- Algorithms and models
+- Training, analysis and evaluation
+- Tools to deploy a model
+
 ### Project Retros
 - What is it about
 - Technically what I learned
