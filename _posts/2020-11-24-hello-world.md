@@ -45,9 +45,10 @@ This year there are too many new grad applying to entry level jobs, so expect sy
 ### Computer Science Knowledge
 This is different from all the whatever-awesome github repo I've stared and never read. This is a personally tailored list of knowledge gaps and how to fill them.
 
-#### Programming Language
+#### Programming Skills
 - C/C++ (also to prep for competitive programming)
 - Java: *Core Java* by Cay S. Horstmann and Gary Cornell, JVM
+- Linux, git, vim
 
 #### Algorithm and Data Structure
 - Stack, linked list
