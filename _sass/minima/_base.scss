@@ -197,6 +197,29 @@ a {
 }
 
 
+
+/**
+ * Progress bar
+ */
+progress::-webkit-progress-value {
+  background-color: $yellow-color-light;
+}
+progress::-webkit-progress-bar {
+  background-color: $grey-color-block !important;
+}
+progress::-moz-progress-value {
+  background-color: $yellow-color-light !important;
+}
+progress::-moz-progress-bar {
+  background-color: $grey-color-block !important;
+}
+progress {
+  background-color: $yellow-color-light;
+}
+
+
+
+
 /**
  * Blockquotes
  */
